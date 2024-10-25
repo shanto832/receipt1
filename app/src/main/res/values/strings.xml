@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductPurchaseApp</string>
+    <string-array name="products_array">
+        <item>Chocolate</item>
+        <item>Chips</item>
+    </string-array>
+</resources>
